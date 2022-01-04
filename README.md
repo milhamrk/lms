@@ -1,2 +1,2 @@
 
-## Weninar Laravel Project
+## Webinar Laravel Project
